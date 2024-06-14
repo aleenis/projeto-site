@@ -48,6 +48,6 @@ h1 {
     font-size: 16px;
     font-weight: 400;
 }
-  
-style.css
+@import url("styles/header.css");
+@import url("styles/banner.css");
 
